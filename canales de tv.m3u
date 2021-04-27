@@ -52,7 +52,5 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cu0EUfiihOqSAgSsXXd-uzfuc-_
 
 
 #EXTINF:0 type="stream" channelid="-1" name= "ARG:TELEFE" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-country="ARG", TELEFE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1619469041~exp=1619476241~acl=/i/appmitelefe_1@326430/*~hmac=98ada776a8d855eb400b24f7d08a1972ccd239bdbdcf431768e9f1ee70b7afa2
-
-
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1619485261~exp=1619492461~acl=/i/appmitelefe_1@326430/*~hmac=635d8e0ed39d849cbb16401f068479012f14836687cf8c6069b8bda511de7a06
 
